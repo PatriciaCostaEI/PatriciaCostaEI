@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PatriciaCostaEI
 - 👀 I’m interested in computer science and engineering - codding and cybersecurity
-- 🌱 I’m currently learning C, HTML, CSS, Javascript, PHP, UI/UX
+- 🌱 I’m currently learning C, PHP, HTML, CSS, Javascript, UI/UX
 - 📫 Reach me by email
 
 <!---
